@@ -1,7 +1,8 @@
+ 
 data = [2,4,8,9,12,14,17,19,22,25,27,28,33,37,39,41,44,45,65,74,123,154,161,612,765,866,543,1212]
 target = 34
 
-#find the closest the integer to the target using binary search algorithm 
+#find the closest the integer to the target from the data using binary search algorithm 
 
 def Binary_search_iterative_closest(data,target):
     
